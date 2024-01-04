@@ -27,8 +27,11 @@ With a strong work ethic, I am not only committed to personal growth but also de
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feelgood1987&layout=compact)](https://github.com/feelgood1987/github-readme-stats)
 
-## Get in Touch
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mousa-khodaei/)
 
 Feel free to explore my repositories and projects. If you have any questions, collaboration ideas, or just want to chat, don't hesitate to reach out!
+
 
 Happy coding! 🚀
