@@ -22,14 +22,10 @@ With a strong work ethic, I am not only committed to personal growth but also de
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=%EC912D)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2343853D.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 
-
-## Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feelgood1987&layout=compact)](https://github.com/feelgood1987/github-readme-stats)
-
-## Connect with Me
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=feelgood1987&" alt="feelgood1987" /></p>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mousa-khodaei/)
+
+
 
 Feel free to explore my repositories and projects. If you have any questions, collaboration ideas, or just want to chat, don't hesitate to reach out!
 
