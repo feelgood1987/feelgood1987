@@ -23,7 +23,6 @@ With a strong work ethic, I am not only committed to personal growth but also de
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2343853D.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=feelgood1987&" alt="feelgood1987" /></p>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mousa-khodaei/)
 
 
 
