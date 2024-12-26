@@ -11,6 +11,9 @@ With a strong work ethic, I am not only committed to personal growth but also de
 - **Backend Development:** Proficient in creating scalable and efficient backend solutions.
 - **Fullstack Development:** Experienced in both frontend and backend development.
 
+## 🏆 My GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=feelgood1987&theme=flat)
+
 ## Technologies & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
